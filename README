@@ -4,9 +4,8 @@ Well, ok it kind of is. Rinari is an Emacs minor mode that is aimed
 towards making Emacs into a top-notch Ruby and Rails development
 environment.
 
-IMPORTANT NOTE: The only currently-supported installation method is
-via package.el, via Marmalade or MELPA. While other methods might
-work, they are unsupported.
+IMPORTANT NOTE: This package is unmaintained these days, and
+users should consider an alternative, e.g. the projectile-rails package.
 
 For a screencast of Rinari see
 http://vimeo.com/2854412
